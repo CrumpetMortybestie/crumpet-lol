@@ -1,0 +1,9 @@
+.logo-container {
+    text-align: center; /* Center the logo */
+    margin-bottom: 20px; /* Add spacing below the logo */
+}
+
+.logo {
+    width: 100px; /* Set the logo's width */
+    height: auto; /* Maintain the aspect ratio */
+}
